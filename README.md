@@ -1,4 +1,4 @@
-# resit-coursework-project
+# Applied Software resit-coursework-project
 # CloudTables-Customer Subsystem (COMP5047 Resit Coursework)
 
 This repository contains the resit coursework submission for the **CloudTables-Customer subsystem** as part of COMP5047. This subsystem involves developing a mobile application for restaurant customers to search for restaurants, book tables, pre-order food, and provide feedback on restaurant services.
